@@ -1,2 +1,3 @@
 Criado o primeiro arquivo texto do repositório.
 Primeira modificação do arquivo na branch 1
+Primeira modificação do arquivo na branch 2
